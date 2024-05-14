@@ -8,11 +8,11 @@ const {
 } = require('discord.js');
 
 // Configuration
-const BOT_TOKEN = "MTE5MDEwNjc3MzI0MDE2MDM4Ng.GkVExA.JpJWn-QO_m1aLAc3BZmtIY9NE4LTaex_BtSpRg";
-const GUILD_ID = "1188145635879301130";
-const VERIFY_CHANNEL_ID = "1190109823694553188";
-const VERIFIED_ROLE_ID = "1188219435513823342";
-const NEXT_STEPS_CHANNEL_ID = "1188218715603480636";
+const BOT_TOKEN = ;
+const GUILD_ID = ;
+const VERIFY_CHANNEL_ID = ;
+const VERIFIED_ROLE_ID = ;
+const NEXT_STEPS_CHANNEL_ID = ;
 
 const client = new Client({
     intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent]
